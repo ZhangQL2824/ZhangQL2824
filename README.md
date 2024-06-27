@@ -38,7 +38,7 @@
 <img src="[https://komarev.com/ghpvc/?username=Xiaokang2022&abbreviated=true&color=yellow](https://img.shields.io/badge/%E5%BC%A0%E6%B8%85%E6%B5%81%E6%98%AF%E5%A4%A7%E5%B8%85%E5%93%A5-%E5%BC%A0%E6%B8%85%E6%B5%81%E6%98%AF%E5%A4%A7%E5%B8%85%E5%93%A5-blue)" />
 </p>
 
-<div align="center">
+<div>
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=W+o+r+k+i+n+g+.+.+." />
 </div>
 
