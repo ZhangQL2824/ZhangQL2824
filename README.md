@@ -38,6 +38,9 @@
 <img src="[https://komarev.com/ghpvc/?username=Xiaokang2022&abbreviated=true&color=yellow](https://img.shields.io/badge/%E5%BC%A0%E6%B8%85%E6%B5%81%E6%98%AF%E5%A4%A7%E5%B8%85%E5%93%A5-%E5%BC%A0%E6%B8%85%E6%B5%81%E6%98%AF%E5%A4%A7%E5%B8%85%E5%93%A5-blue)" />
 </p>
 
+
+<div align=center> <img width="300" height="200" src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/> </div>
+
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=张清流是大帅哥!&fontSize=90&fontAlign=50&fontAlignY=70&desc=张清流好帅💖😊&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
