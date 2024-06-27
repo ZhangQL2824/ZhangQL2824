@@ -1,5 +1,5 @@
 # 我是张清流  
-张清流是大帅哥 :blush
+张清流是大帅哥
 ## GitHub使用统计
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhangQL2824)
 ## github使用语言统计
@@ -15,6 +15,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake.svg">
 </picture>
+![GitHub Streak](https://streak-stats.demolab.com/?user=ZhangQL2824)
 
 
 
