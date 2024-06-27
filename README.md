@@ -28,7 +28,7 @@
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/ZhangQL2824"><img src="https://img.shields.io/badge/GitHub-Xiaokang2022-blue?logo=github" /></a>
+<a href="https://github.com/ZhangQL2824"><img src="https://img.shields.io/badge/GitHub-张清流-blue?logo=github" /></a>
 <img src="https://img.shields.io/badge/QQ-3024666853-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=Xiaokang2022&abbreviated=true&color=yellow" />
