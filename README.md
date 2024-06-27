@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 ## 打字特效
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=张清流是大帅哥)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=aaaaa)
 
 
 
