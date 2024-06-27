@@ -5,7 +5,7 @@
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=你+快+说+，+我+俩+天+下+第+一+好+😁+！" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=woc+！+帅+哥+你+谁+😁+？" />
 </p>
 
 # ![Mario_Gameplay](https://github.com/erbanku/erbanku/assets/79493862/56f4be91-dcd4-4700-838d-5545ccdbf859)
