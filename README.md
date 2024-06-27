@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/QQ-3024666853-green?logo=tencentqq" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
 <img src="https://komarev.com/ghpvc/?username=Xiaokang2022&abbreviated=true&color=yellow" />
-![Static Badge](https://img.shields.io/badge/%E5%BC%A0%E6%B8%85%E6%B5%81%E6%98%AF%E5%A4%A7%E5%B8%85%E5%93%A5-%E5%BC%A0%E6%B8%85%E6%B5%81%E6%98%AF%E5%A4%A7%E5%B8%85%E5%93%A5-blue)
+<img src="[https://komarev.com/ghpvc/?username=Xiaokang2022&abbreviated=true&color=yellow](https://img.shields.io/badge/%E5%BC%A0%E6%B8%85%E6%B5%81%E6%98%AF%E5%A4%A7%E5%B8%85%E5%93%A5-%E5%BC%A0%E6%B8%85%E6%B5%81%E6%98%AF%E5%A4%A7%E5%B8%85%E5%93%A5-blue)" />
 </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
