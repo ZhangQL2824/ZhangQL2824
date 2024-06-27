@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
 <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=AAAAA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=56A2F7&random=false&width=435&lines=%E5%BC%A0%E6%B8%85%E6%B5%81%E6%98%AF%E5%A4%A7%E5%B8%85%E5%93%A5)](https://git.io/typing-svg)
 
 
 <picture>
