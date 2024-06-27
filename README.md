@@ -1,21 +1,3 @@
-# 我是张清流  
-张清流是大帅哥 😊😊😊
-## GitHub使用统计
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhangQL2824)
-## github使用语言统计
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangQL2824)
-## 资料奖杯
-[![trophy](https://github-profile-trophy.vercel.app/?username=ZhangQL2824)](https://github.com/ryo-ma/github-profile-trophy)
-## 徽章
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
-<img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=AAAAA)](https://git.io/typing-svg)
-
-
-
-
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Xiaokang2022!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
