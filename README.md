@@ -42,7 +42,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=慢+吞+吞+的+小+孩+，+也+有+属+于+自+己+的+玫+瑰+海+💖+。" />
 </div>
 
-<div align=center> <img width="300" height="200" src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/> </div>
+<div align=center> <img width="300" height="1000" src="225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/> </div>
 
 
 <!-- https://github.com/kyechan99/capsule-render -->
