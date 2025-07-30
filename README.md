@@ -1,7 +1,7 @@
 <!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
+<!-- <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=张清流是大帅哥!&fontSize=90&fontAlign=50&fontAlignY=30&desc=技术改变世界&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
+</p> -->
 
 <!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -46,9 +46,9 @@
 
 
 <!-- https://github.com/kyechan99/capsule-render -->
-<p align="center">
+<!-- <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=张清流是大帅哥!&fontSize=90&fontAlign=50&fontAlignY=70&desc=张清流好帅💖😊&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
-</p>
+</p> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Peter-JXL/Peter-JXL/output/github-contribution-grid-snake-dark.svg">
